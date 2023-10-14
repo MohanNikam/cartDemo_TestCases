@@ -1,5 +1,7 @@
 # cartDemo_TestCases
-Test cases are related to Ecommerce website _cart demo
+Automation using Robot framework using pycharm IDE
+Steps to follow to run the code
+
 
 Hi,
 Below mentioend steps details will helpful to run the robot framework code on your machine.
